@@ -1,0 +1,6 @@
+staintools~=2.1.2
+numpy~=1.19.5
+opencv-python~=4.5.4.60
+spams~=2.6.2.5
+matplotlib~=3.3.4
+scikit-image~=0.17.2
