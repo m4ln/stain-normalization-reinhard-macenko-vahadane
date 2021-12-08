@@ -3,3 +3,5 @@
 /Pipfile
 /Pipfile.lock
 __pycache__/
+.idea
+.directory
